@@ -1,0 +1,31 @@
+{
+    "name": "@icdt-co-ltd/library-react-context-broadcast",
+    "version": "0.0.0",
+    "description": "React based broadcast module",
+    "main": "./src/index.js",
+    "types": "./@types/index.d.ts",
+    "files": [
+        "src",
+        "@types"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/icdt-co-ltd/library-react-context-broadcast.git"
+    },
+    "author": "icdt-co-ltd",
+    "license": "icdt-co-ltd",
+    "bugs": {
+        "url": "https://github.com/icdt-co-ltd/library-react-context-broadcast"
+    },
+    "homepage": "https://github.com/icdt-co-ltd/library-react-context-broadcast#readme",
+    "publishConfig": {
+        "@icdt-co-ltd/registry": "https://npm.pkg.github.com"
+    },
+    "devDependencies": {
+        "@types/react": "^18.0.27",
+        "react": "^18.2.0"
+    },
+    "peerDependencies": {
+        "react": "^18.0.0"
+    }
+}
