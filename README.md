@@ -1,5 +1,5 @@
-# library-react-context-core
-javascript util library created by ICDT Operations Support Part
+# library-react-context-broadcast
+React based broadcast module library created by ICDT Operations Support Part
 
 ## Getting started
 
