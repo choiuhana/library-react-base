@@ -17,7 +17,7 @@
         "outDir": "./dist",
         "baseUrl": "./",
         "declaration": true,
-        "sourceMap": true
+        "sourceMap": false
     },
     "include": ["src/exports/**/*"]
 }
