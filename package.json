@@ -30,7 +30,7 @@
         "web-vitals": "^2.1.4"
     },
     "scripts": {
-        "pkg-build": "rm -rf dist && tsc",
+        "pkg-build": "rm -rf dist && tsc --project tsconfig-pkg.json",
         "deploy": "npm run pkg-build && npm publish",
         "start": "react-scripts start",
         "build": "react-scripts build",
