@@ -7,7 +7,7 @@ React based broadcast module library created by ICDT Operations Support Part
 ## Getting started
 
 ```bash
-npm install https://github.com/icdt-co-ltd/library-node-core
+npm install @icdt-co-ltd/library-react-context-broadcast
 ```
 icdt-co-ltd permission is required
 
