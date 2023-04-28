@@ -1,12 +1,12 @@
 {
-    "name": "@icdt-co-ltd/library-react-context-broadcast",
+    "name": "@choiuhana/library-react-native",
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/icdt-co-ltd/library-react-context-broadcast.git"
+        "url": "git+https://github.com/choiuhana/library-react-base.git"
     },
-    "author": "icdt-co-ltd",
-    "license": "icdt-co-ltd",
+    "author": "choiuhana",
+    "license": "choiuhana",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "files": [
